@@ -58,7 +58,7 @@ Focused on performance, maintainability, and scalable backend design.
 ## Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperuyank&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alperuyank&theme=tokyonight" />
 </p>
 
 ---
@@ -84,4 +84,4 @@ Building backend systems that are:
 ## Contact
 
 - GitHub: https://github.com/alperuyank
-- LinkedIn: linkedin.com/in/alperuyank
+- LinkedIn: https://linkedin.com/in/alperuyank
