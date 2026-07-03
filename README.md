@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Alper%20Uyan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Alper%20Uyanik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # Hi, I'm Alper
@@ -60,11 +60,15 @@ I focus on **clean architecture**, **system design**, and **backend performance 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperuyank&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alperuyank&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperuyank&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperuyank&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +76,7 @@ I focus on **clean architecture**, **system design**, and **backend performance 
 ## Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperuyank&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=alperuyank&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
