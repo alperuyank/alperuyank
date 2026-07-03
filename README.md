@@ -1,55 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Alper%20Uyanik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Alper%20Uyanık&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # Hi, I'm Alper
 
-Backend-focused Software Engineer building scalable, high-performance systems.
+Backend Software Engineer focused on building **scalable, high-performance systems**.
 
-I focus on **clean architecture**, **system design**, and **backend performance optimization**.
+I care about **clean architecture, system design, and production-grade backend development**.
 
 ---
 
-## About Me
+## About
 
-- Backend Developer
-- Strong interest in scalable system design
-- Authentication, security & API design
-- Performance optimization (Redis, caching strategies)
-- Search systems (Elasticsearch)
-- Can work full-stack when needed
-- Continuously learning system design & backend engineering
+Backend engineer with experience across multiple stacks and real-world systems.  
+Focused on performance, maintainability, and scalable backend design.
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 - Java
 - PHP
 - JavaScript
 - HTML / CSS
 
-### Markup / Styling
-- HTML
-- CSS
-- BOOTSTRAP & TAILWIND
-  
-### ⚙️ Backend
+**Backend**
 - Node.js / Express.js
-- Java Spring Boot (Beginner – actively learning)
+- Java Spring Boot (learning)
 - PHP Symfony (1+ year experience)
 
-### Databases & Search
+**Databases**
 - SQL (MySQL, PostgreSQL)
 - NoSQL
 - Redis
 - Elasticsearch
 
-### Messaging & Systems
+**Messaging / Systems**
 - RabbitMQ
 
-### DevOps & Tools
+**Tools**
 - Linux
 - Git / GitHub
 - Postman
@@ -60,7 +50,7 @@ I focus on **clean architecture**, **system design**, and **backend performance 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperuyank&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=alperuyank&theme=tokyonight" />
 </p>
 
 ---
@@ -73,7 +63,7 @@ I focus on **clean architecture**, **system design**, and **backend performance 
 
 ---
 
-## Streak
+## Contribution Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alperuyank&theme=tokyonight&hide_border=true" />
@@ -81,21 +71,17 @@ I focus on **clean architecture**, **system design**, and **backend performance 
 
 ---
 
-## Activity Graph
+## Focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alperuyank&theme=tokyo-night" />
-</p>
+Building backend systems that are:
+- scalable  
+- fast  
+- maintainable  
+- production-ready  
 
 ---
 
 ## Contact
 
-- GitHub: github.com/alperuyank
+- GitHub: https://github.com/alperuyank
 - LinkedIn: linkedin.com/in/alperuyank
-
----
-
-## Focus
-
-Building **scalable backend systems with clean architecture and high performance**.
